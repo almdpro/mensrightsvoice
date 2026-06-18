@@ -1,0 +1,6 @@
+{
+  "name": "Men's Rights Bangladesh",
+  "description": "A dark, crimson-themed professional platform advocating for men's rights in Bangladesh, featuring crime directories, propaganda trackers, and secure reporting systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
